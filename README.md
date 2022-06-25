@@ -12,4 +12,5 @@ After that you can do a commit to the project.
 
 # IMPORTANT
 First: The first 4 versions of KM Bot are not the best versions, a new version would be released titles as `KM-Bot 5`.
+
 Second: You would not be able to update to the next version with the first 4 versions and would manually need to update from here.
